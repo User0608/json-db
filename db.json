@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "professors": [
         {
             "nombre": "Kevin",
@@ -9,6 +10,8 @@
             "apellido": "Cotrina"
         }
     ],
+=======
+>>>>>>> r3
     "cursos": [
         {
             "id": 1,
@@ -41,6 +44,12 @@
             "price_course": "10",
             "img_teacher": "https://edteam-media.s3.amazonaws.com/users/avatar/b438c0bd-1271-4f23-9d20-7a311f460998.jpg",
             "teacher_name": "Alvaro Felipe"
+        }
+    ],
+    "alumnos": [
+        {
+            "nombre": "Jorge",
+            "carrera": "ing"
         }
     ]
 }
